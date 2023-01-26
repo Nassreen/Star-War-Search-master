@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Star-War-Search-master/static/css/main.519b59c1.css",
+    "main.js": "/Star-War-Search-master/static/js/main.4152620b.js",
+    "static/media/Roboto-Regular.svg": "/Star-War-Search-master/static/media/Roboto-Regular.342175c0f9c6fd3a01e9.svg",
+    "static/media/Videographer-pana.png": "/Star-War-Search-master/static/media/Videographer-pana.6354d8f6113a3dedc54b.png",
+    "static/media/Roboto-Regular.eot": "/Star-War-Search-master/static/media/Roboto-Regular.67168c66abc3f57c79f4.eot",
+    "static/media/Roboto-Regular.ttf": "/Star-War-Search-master/static/media/Roboto-Regular.fa7e6e7d259aa22ddca2.ttf",
+    "static/media/Roboto-Regular.woff": "/Star-War-Search-master/static/media/Roboto-Regular.0944be1093c62cedb919.woff",
+    "static/media/Roboto-Regular.woff2": "/Star-War-Search-master/static/media/Roboto-Regular.9d43b86421e004e704b9.woff2",
+    "index.html": "/Star-War-Search-master/index.html",
+    "main.519b59c1.css.map": "/Star-War-Search-master/static/css/main.519b59c1.css.map",
+    "main.4152620b.js.map": "/Star-War-Search-master/static/js/main.4152620b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519b59c1.css",
+    "static/js/main.4152620b.js"
+  ]
+}
